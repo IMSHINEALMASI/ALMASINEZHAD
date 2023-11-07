@@ -13,7 +13,7 @@ rustup update stable
 
 rustup default stable 
 
-git clone https://github.com/AleoHQ/leo   NM
+git clone https://github.com/AleoHQ/leo   NMmk
 cd leo
 نتبی اننیقیب
 apt install clang gcc libssl-dev pkg-confignmL
