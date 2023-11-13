@@ -5,7 +5,7 @@ aleo smart contract
 ------------------------------------------------------------------
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh JKSHAHIN DJKAOKDHNNAKAM 
 HJ
-source $HOME/.cargo/envV 
+source $HOME/.cargo/envV MK
 
 rustup install stable
 
