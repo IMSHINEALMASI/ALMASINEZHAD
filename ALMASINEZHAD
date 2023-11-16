@@ -40,7 +40,7 @@ https://chrome.google.com/webstore/detail/json-beautifier-editor/lpopeocbeepakdn
 
 cd $HOMEF
 
-mkdir demo_deploy_Leo_app && cd demo_deploy_Leo_appCea
+mkdir demo_deploy_Leo_app && cd demo_deploy_Leo_appCea_LUZDSCIKZJ
 
 WALLETADDRESS=""
 
