@@ -20,7 +20,7 @@ apt install clang gcc libssl-dev pkg-confignmL
  
 cargo install --path .
 
-git clone https://github.com/AleoHQ/snarkOS.git --depth 1 
+git clone https://github.com/AleoHQ/snarkOS.git --depth 1 _HSDKSJB
 cd snarkOS3
 
 ./build_ubuntu.sh
