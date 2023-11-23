@@ -46,7 +46,7 @@ WALLETADDRESS=""
 
 APPNAME=helloworld_"${WALLETADDRESS:4:6}"
 
-leo new "${APPNAME}"
+leo new "${APPNAME}"_AYVAL
 
 PATHTOAPP=$(realpath -q $APPNAME)
 
