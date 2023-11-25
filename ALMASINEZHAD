@@ -3,7 +3,7 @@ aleo smart contract
  
 نصب پیش نیازها
 ------------------------------------------------------------------
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh JKSHAHIN DJKAOKDHNNAKAM GHF
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh JKSHAHIN DJKAOKDHNNAKAM GHF_LOKL
 HJ
 source $HOME/.cargo/envV MK
 
