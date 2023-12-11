@@ -7,7 +7,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh JKSHAHIN DJKAOKDH
 HJ
 source $HOME/.cargo/envV MK
 
-rustup install stable
+rustup install stableGY
 
 rustup update stable 
 
