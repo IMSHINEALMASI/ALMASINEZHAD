@@ -8,7 +8,7 @@ HJ
 source $HOME/.cargo/envV MK
 
 rustup install stableGY
-
+JGCHFCFG
 rustup update stable 
 
 rustup default stable 
