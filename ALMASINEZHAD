@@ -48,7 +48,7 @@ APPNAME=helloworld_"${WALLETADDRESS:4:6}"
 
 leo new "${APPNAME}"_AYVAL
 
-PATHTOAPP=$(realpath -q $APPNAME)
+PATHTOAPP=$(realpath -q $APPNAME)_SKJGIUKSIUDS
 
 cd $PATHTOAPP && cd .._ HIJJU
 
