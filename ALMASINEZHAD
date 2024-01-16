@@ -25,7 +25,7 @@ cd snarkOS3
 
 ./build_ubuntu.sh
 
-cargo install --path .JYJYF_UGYFHFSRS
+cargo install --path .JYJYF_UGYFHFSRS_DDSND
 
 
 توییت برای فاست
