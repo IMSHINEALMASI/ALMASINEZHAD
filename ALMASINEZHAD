@@ -50,7 +50,7 @@ leo new "${APPNAME}"_AYVAL
 
 PATHTOAPP=$(realpath -q $APPNAME)_SKJGIUKSIUDS
 
-cd $PATHTOAPP && cd .._ HIJJU
+cd $PATHTOAPP && cd .._ HIJJU_بKUSGUS
 
 PRIVATEKEY=""
 
