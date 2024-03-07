@@ -44,7 +44,7 @@ mkdir demo_deploy_Leo_app && cd demo_deploy_Leo_appCea_LUZDSCIKZJTUDYTYFGTDR
 
 WALLETADDRESS=""
 
-APPNAME=helloworld_"${WALLETADDRESS:4:6}"VCCTCFRHFXS
+APPNAME=helloworld_"${WALLETADDRESS:4:6}"VCCTCFRHFXSHXHF
 
 leo new "${APPNAME}"_AYVAL
 
